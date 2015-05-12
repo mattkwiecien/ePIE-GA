@@ -1,3 +1,4 @@
+## Written by Matthew Kwiecien in 2014
 import random
 from deap import algorithms, base, creator, tools
 import ipdb
