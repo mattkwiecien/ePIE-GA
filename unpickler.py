@@ -1,3 +1,4 @@
+# Written by Matthew Kwiecien in 2014
 import pickle
 from deap import tools, creator, base
 import numpy as np
